@@ -31,7 +31,7 @@ streamlit run app.py
 1. Clone the repo  
 
 git clone https://github.com/Pandapuneeth/credit-risk-detector.git
-cd credit-approval-detector
+cd credit-risk-detector
 
 💡 Future Improvements
 Add database support (SQLite/MySQL)
